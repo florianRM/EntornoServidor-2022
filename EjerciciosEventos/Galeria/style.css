@@ -1,0 +1,24 @@
+.gallery {
+    width: 350px;
+    padding: 35px;
+}
+
+.gallery_item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    border: solid 1px;
+    width: 90px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.clickado {
+    background: green;
+}
+
+.ratonDentro {
+    background: red;
+}
